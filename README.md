@@ -1,75 +1,78 @@
-<h1 align="center">📊 Business Insights 360: AtliQ Hardware Power BI Project</h1>
+<h1 align="center">📊 Business Insights 360: Power BI Analytics for AtliQ Hardware</h1>
 
-**Business Insights 360** is an end-to-end **Power BI analytics project** designed to help **AtliQ Hardware**, a global computer peripherals company, transition from Excel-based reporting to a **data-driven decision-making system**.  
+**Business Insights 360** is a comprehensive Power BI analytics project designed to help **AtliQ Hardware**, a global computer peripherals manufacturer, evolve from traditional Excel reporting to a **data-driven decision-making ecosystem**.  
 
-The project delivers comprehensive insights across **Finance, Sales, Marketing, Supply Chain, and Executive operations**, empowering stakeholders to make informed strategic decisions through **interactive dashboards**.
+This project delivers insightful dashboards across **Finance, Sales, Marketing, Supply Chain, and Executive operations**, providing leadership teams with actionable insights to drive strategic growth.
 
----
+
 
 ## 🔍 Project Overview
 
-AtliQ Hardware faced challenges with slow, Excel-based reporting that limited business visibility and agility.  
-To overcome this, I designed **five interactive Power BI dashboards** that provide a **360° view** of the company’s performance, helping executives and department heads analyze KPIs and make faster, data-backed decisions.
+AtliQ Hardware struggled with limited visibility due to Excel-based reports.  
+Through **Business Insights 360**, I built **five interactive dashboards** that deliver a **360° view** of company performance — empowering executives and department heads to monitor KPIs, detect trends, and make real-time business decisions.
 
-**What I Did:**
-- Designed **5 interactive dashboards** tailored for different stakeholders.  
-- Integrated data from **MySQL** and **Excel/CSV** sources.  
-- Built **data models** using **fact and dimension tables** with a **star schema design**.  
-- Created **DAX measures** and dynamic visuals for insightful storytelling.  
-- Implemented **bookmarks**, **slicers**, and **navigation** for smooth interactivity.  
-- Optimized report performance using **DAX Studio**.
-
----
-
-## 🧭 Dashboard Views
-
-### 💰 Finance View
-- Profit & Loss statement with **YoY growth**.  
-- KPIs: **Net Sales, Gross Margin %, Net Profit %**.  
-- Detailed revenue and cost analysis with trends.
-
-### 📈 Sales View
-- Customer and product performance insights.  
-- Region and segment-based breakdowns.  
-- Top customers and product contribution charts.
-
-### 🎯 Marketing View
-- Product and regional profitability insights.  
-- **Net Profit %** by segment and **market share** analysis.
-
-### 🚚 Supply Chain View
-- **Forecast accuracy**, variance, and net error metrics.  
-- Comparison of **actual vs. forecasted** sales.
-
-### 🧑‍💼 Executive View
-- High-level summary of all departments.  
-- Top 5 customers & products by **revenue contribution**.  
-- Yearly trends for **Revenue, GM %, NP %, and Market Share %**.
+**Key Highlights:**
+- Developed **Finance, Sales, Marketing, Supply Chain, and Executive** dashboards.  
+- Integrated data from **MySQL** and **Excel/CSV** for hybrid analytics.  
+- Designed a **star schema model** with fact and dimension tables.  
+- Created advanced **DAX measures** for performance KPIs.  
+- Enhanced interactivity with **bookmarks, slicers, and navigation menus**.  
+- Tuned performance using **DAX Studio** and report optimization techniques.
 
 ---
 
-## 🧠 Key Learnings
+## 🧭 Dashboard Modules
 
-✅ Data modeling using **fact & dimension tables (Star Schema)**  
-✅ Advanced **DAX measures** for KPIs and dynamic calculations  
-✅ Data transformation using **Power Query & M language**  
-✅ Enhanced storytelling with **bookmarks & page navigation**  
-✅ Integrated **SQL + Excel/CSV** data sources into Power BI  
-✅ Performance optimization using **DAX Studio**  
-✅ Stakeholder-focused **dashboard storytelling** and UX design  
+### 💰 Finance Dashboard
+- Comprehensive **Profit & Loss (P&L)** reporting with YoY growth metrics.  
+- KPIs include **Net Sales**, **Gross Margin %**, and **Net Profit %**.  
+- Visual insights for top/bottom products and customers by revenue.  
+- Enables leadership to align financial strategy with organizational goals.
+
+### 🤝 Sales Dashboard
+- Detailed customer and product performance matrices.  
+- Analyzes **unit economics**, **regional sales patterns**, and **KPI trends**.  
+- Helps identify growth opportunities, optimize discounts, and improve negotiations.
+
+### 📣 Marketing Dashboard
+- Evaluates **product division profitability** and **market share trends**.  
+- Measures campaign effectiveness via **Net Profit %** and **ROI metrics**.  
+- Detects evolving customer demand and market movement.
+
+### ⛓️ Supply Chain Dashboard
+- Tracks **forecast accuracy**, **net error**, and **absolute error**.  
+- Compares actual vs. forecasted sales to measure operational reliability.  
+- Helps optimize inventory, reduce waste, and enhance delivery efficiency.
+
+### 🤵 Executive Dashboard
+- Summarizes company-wide KPIs in a single visual layer.  
+- Displays **Top 5 customers and products** by revenue.  
+- Highlights yearly performance trends for **Revenue**, **GM%**, **NP%**, and **Market Share %**.  
+- Enables data-backed executive decision-making.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Technical & Analytical Skills Applied
 
-| Tool | Purpose |
-|------|----------|
-| **Power BI Desktop** | Dashboard creation & visualization |
-| **Power Query** | Data transformation & cleaning |
-| **MySQL Database** | Fact & dimension data extraction |
-| **Excel/CSV** | Target and market share data |
-| **DAX Studio** | Optimization and performance tuning |
-| **Power BI Service** | Publishing and sharing dashboards |
+✅ Connecting and loading data from **MySQL** into Power BI  
+✅ Implementing **ETL pipelines** using Power Query  
+✅ Creating **custom date tables** and defining **fiscal logic**  
+✅ Building **fact-dimension relationships** using Star Schema  
+✅ Crafting **calculated columns and measures** using DAX  
+✅ Designing intuitive, **user-centered visuals**  
+✅ Utilizing **DAX Studio** for report performance tuning  
+✅ Automating data refresh with **Power BI Service**
+
+---
+
+## 💼 Soft Skills Strengthened
+
+📑 Strong understanding of **business reporting principles**  
+🎨 Designing with a **user-first visualization mindset**  
+🧩 Structured **report-building workflow** for consistency  
+🧠 Analytical thinking for identifying key metrics and KPIs  
+🗂️ Clear documentation and stakeholder-oriented storytelling  
+📈 Strategic approach to aligning reports with business goals  
 
 ---
 
@@ -78,29 +81,36 @@ To overcome this, I designed **five interactive Power BI dashboards** that provi
 - **Net Sales** & **Net Invoice Sales**  
 - **Gross Margin** & **Gross Margin %**  
 - **Net Profit** & **Net Profit %**  
-- **Pre- and Post-Invoice Deductions**  
+- **Pre- & Post-Invoice Deductions**  
 - **COGS (Cost of Goods Sold)**  
 - **Forecast Accuracy** & **Variance**  
 - **YTD (Year to Date)** & **YTG (Year to Go)**  
-- **Revenue Distribution** & **Market Share**
+- **Revenue Distribution** & **Market Share %**
 
 ---
 
-## 📘 Learning Journey
+## 🧰 Tools & Technologies
 
-1. **Project Scoping & Requirement Gathering** – Defined stakeholder goals and success metrics.  
-2. **SQL Integration** – Connected MySQL database with Power BI.  
-3. **Data Cleaning & Modeling** – Structured relationships using **Primary/Foreign Keys**.  
-4. **Visualization Design** – Created clear, business-driven visuals.  
-5. **Report Interactivity** – Added slicers, drilldowns, and bookmarks.  
-6. **Optimization & Testing** – Reduced report load time and ensured accuracy.
+| Tool | Purpose |
+|------|----------|
+| **Power BI Desktop** | Dashboard creation & visualization |
+| **Power Query (M Language)** | Data transformation & cleaning |
+| **MySQL Database** | Source for transactional and sales data |
+| **Excel/CSV** | Supplementary data for targets & forecasts |
+| **DAX Studio** | Optimization and performance tuning |
+| **Power BI Service** | Cloud publishing & scheduled refresh |
 
 ---
 
 ## 🏆 Outcome
 
-This project demonstrates my ability to build a **complete business intelligence solution** — from raw data to actionable insights — showcasing strengths in:  
-✔ Data modeling & DAX  
-✔ Dashboard storytelling  
-✔ Stakeholder-focused design  
-✔ Performance optimization 
+**Business Insights 360** successfully demonstrates a full-scale BI solution — from data extraction to actionable visualization.  
+It highlights capabilities in:
+- **Data modeling and transformation**  
+- **Performance-driven DAX calculations**  
+- **Stakeholder-focused report design**  
+- **Interactive business storytelling**  
+
+
+
+⭐ *If you found this project valuable, don’t forget to star the repo!* ⭐
